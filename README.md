@@ -9,7 +9,7 @@ with a leading '0' at the first line.
 
 <p>
 Each time we add a new contact, we do so by AppendText, a quick performance tool.
-Therefore, for 2 records with sasme user_name field, the lower one, is more updated. FOR each unique_name.
+Therefore, for 2 records with same user_name field, the lower one, is more updated. (true FOR each unique_name).
 </p>
 
 <p>
@@ -24,5 +24,6 @@ we wiil return FAST_LIST.
 
 Otherwise,
 we prepare the file,
-and set the leading bit to be 1
+and set the leading bit to be 1.
+by performing SLOW_LIST method.
 </p>
