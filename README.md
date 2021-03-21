@@ -6,10 +6,9 @@
 On creation, at working directory, a new text file name 'PhoneBook.txt' will be created :)
 </p>
 
-<p>
-Run c# program, using the CLI you may:
+#### Run c# program, using the CLI you may:
   - Create new contact
   - Modify exsiting contact
   - View all contacts
-</p>
+
 
